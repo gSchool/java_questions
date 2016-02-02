@@ -34,7 +34,6 @@ The instructor running these tests does not have to know Java, but should be abl
 ```
 
 
-
 3.  In IntervewQuestions.class, each question is there in each of the respective methods. Ask the student that question, and then ask them to whiteboard the response. 
 
 4. Type in their response into IntervewQuestions.class
