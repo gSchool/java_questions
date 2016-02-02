@@ -39,4 +39,4 @@ The instructor running these tests does not have to know Java, but should be abl
 
 4. Type in their response into IntervewQuestions.class
 
-5. Go to IntervewQuestionsTest.class and hit the green circular "run" button at the top . 
+5. Go to IntervewQuestionsTest.class and hit the green circular "run" button at the top .  This will run the tests. 
