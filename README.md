@@ -13,9 +13,9 @@ The instructor running these tests does not have to know Java, but should be abl
 
 
 #### Instructions: 
-1. Fork and clone this repo. 
+* Fork and clone this repo. 
 
-2. Set up the project files in Eclipse.
+* Set up the project files in Eclipse.
    This is what the file structure should look like: 
 
 ```
@@ -34,8 +34,8 @@ The instructor running these tests does not have to know Java, but should be abl
 ```
 
 
-3.  In IntervewQuestions.class, each question is there in each of the respective methods. Ask the student that question, and then ask them to whiteboard the response. 
+*  In IntervewQuestions.class, each question is there in each of the respective methods. Ask the student that question, and then ask them to whiteboard the response. 
 
-4. Type in their response into IntervewQuestions.class
+*  Type in their response into IntervewQuestions.class
 
-5. Go to IntervewQuestionsTest.class and hit the green circular "run" button at the top .  This will run the tests. 
+*  Go to IntervewQuestionsTest.class and hit the green circular "run" button at the top .  This will run the tests. 
